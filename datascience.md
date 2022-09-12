@@ -8,4 +8,4 @@ Others on [intellipaat.com](https://intellipaat.com/blog/tutorial/data-science-t
 
 ## Books
 
-Free ebook from Microsoft labs downloadable [here](https://www.microsoft.com/en-us/research/video/foundations-of-ds/) or directly in this [repository](./books/ms_foundation.pdf).
+Free ebook from Microsoft labs downloadable [here](https://www.microsoft.com/en-us/research/video/foundations-of-ds/) or directly in this [repository](./books/ms_foundations.pdf).
