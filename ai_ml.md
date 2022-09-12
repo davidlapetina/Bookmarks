@@ -3,6 +3,7 @@
 ## Learning AI/ML
 
 - [Full course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
+- Of course, [Tensorflow](https://www.tensorflow.org/resources/learn-ml) main page for learning
 
 ## Interesting demo projects
 
