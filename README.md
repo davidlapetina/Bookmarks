@@ -3,6 +3,7 @@ This repository contains links and document freely available on different domain
 - Data Science
 - AI/ML
 - Programming (Java, Python, etc)
+- [Linux](linux.md)
 - and many others
 
 # Courses and tutorials
