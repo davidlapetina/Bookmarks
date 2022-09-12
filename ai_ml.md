@@ -8,6 +8,9 @@ Follow-up in Real-time [Table-Tennis}(https://github.com/maudzung/TTNet-Real-tim
 
 [Solving Sudoku](https://github.com/remi2257/sudoku-solver) using [KivyMD](https://github.com/kivymd/KivyMD)
 
-An ML learning to play [Mario](https://pastebin.com/ZZmSNaHX)
+An ML learning to play [Mario](https://pastebin.com/ZZmSNaHX), another one [here](https://github.com/Chrispresso/SuperMarioBros-AI)
 
 How to deploy 'Cartoonify' in orde to ... [cartoonify](https://github.com/ahmedbesbes/cartoonify) any picture.
+
+How to use ML to generate sounds using [NSynth](https://github.com/googlecreativelab/open-nsynth-super).
+
