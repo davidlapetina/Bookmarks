@@ -1,6 +1,10 @@
-## AI/ML
+# AI/ML
 
-# Interesting demo projects
+## Learning AI/ML
+
+- [Full course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
+
+## Interesting demo projects
 
 [Solving Rubik](https://pypi.org/project/kociemba/) cube using OpenCV
 
