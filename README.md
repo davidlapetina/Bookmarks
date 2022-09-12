@@ -1,9 +1,10 @@
 # Bookmarks
 This repository contains links and document freely available on different domains such as:
-- Data Science
-- AI/ML
+- [Data Science](datascience.md)
+- [AI/ML](ai_ml.md)
 - Programming (Java, Python, etc)
 - [Linux](linux.md)
+- Preparing [Interviews](interviews.md)
 - and many others
 
 # Courses and tutorials
