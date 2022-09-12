@@ -17,6 +17,9 @@ Check
 - [Cheat sheets](https://github.com/swapnakpanda/Infographics/tree/main/Cheat%20Sheet) on various topics
 - [Javascript algorithms and Data Structure](https://github.com/trekhleb/javascript-algorithms)
 - [NodeJS](https://github.com/goldbergyoni/nodebestpractices) best practices
+
+# Repositories with resources
 - [Design resources](https://github.com/bradtraversy/design-resources-for-developers)
+- [Web development resources](https://github.com/markodenic/web-development-resources)
 
 
