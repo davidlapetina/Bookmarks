@@ -1,5 +1,5 @@
-## Linux
-# Command lines cheat sheets
+# Linux
+## Command lines cheat sheets
 
 Lot of cheat sheets:
 - [Pcwdld](https://www.pcwdld.com/linux-commands-cheat-sheet)
