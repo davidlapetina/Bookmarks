@@ -1,5 +1,8 @@
 # AI/ML
 
+## Theory
+- Paper on what are [tranformers](https://arxiv.org/abs/2207.09238)
+
 ## Learning AI/ML
 
 - [Full course](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
