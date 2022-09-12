@@ -1,6 +1,6 @@
-## Interviews
+# Interviews
 
-# Example of questions
+## Example of questions
 
 - 50 [SQL questions](https://javarevisited.blogspot.com/2021/05/sql-and-database-phone-interview-questions.html)
 - 20 [System design questions](https://www.java67.com/2018/05/top-20-system-design-interview-questions-answers-programming.html)
