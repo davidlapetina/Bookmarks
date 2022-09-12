@@ -4,3 +4,7 @@ This repository contains links and document freely available on different domain
 - AI/ML
 - Programming (Java, Python, etc)
 - and many others
+
+# Courses and tutorials
+
+Check this [repository](https://github.com/Developer-Y/cs-video-courses) for full courses on Computer Sciences, Data Science, AI/ML, etc
