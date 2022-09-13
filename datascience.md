@@ -1,5 +1,8 @@
 # Data Science
 
+## Concepts
+[29 Statistical Concepts](https://www.datasciencecentral.com/32-statistical-concepts-explained-in-simple-english-part-12/) explained
+
 ## Tutorials
 
 Free tutorials on [data-flair.training](https://data-flair.training/blogs/data-science-tutorials-home/)
