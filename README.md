@@ -20,6 +20,7 @@ Check
 - [Cheat sheets](https://github.com/swapnakpanda/Infographics/tree/main/Cheat%20Sheet) on various topics
 - [Javascript algorithms and Data Structure](https://github.com/trekhleb/javascript-algorithms)
 - [NodeJS](https://github.com/goldbergyoni/nodebestpractices) best practices
+- Some Blockchain tutorials [here](https://github.com/yjjnls/awesome-blockchain) and [here](https://github.com/imbaniac/awesome-blockchain).
 
 # Repositories with resources
 - [Design resources](https://github.com/bradtraversy/design-resources-for-developers)
