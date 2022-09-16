@@ -3,6 +3,7 @@ This repository contains links and documents freely available on different domai
 - [Data Science](datascience.md)
 - [AI/ML](ai_ml.md)
 - Programming:
+  - [Algorithms](algo.md)
   - Java
   - [Python](python.md)
   - etc
