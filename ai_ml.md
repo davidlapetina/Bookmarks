@@ -1,7 +1,7 @@
 # AI/ML
 
 ## Theory
-- Paper on what are [tranformers](https://arxiv.org/abs/2207.09238)
+- Paper on what are [transformers](https://arxiv.org/abs/2207.09238)
 
 ## Learning AI/ML
 
@@ -9,7 +9,9 @@
 - [ML For Beginners](https://github.com/microsoft/ML-For-Beginners)
 - Of course, [Tensorflow](https://www.tensorflow.org/resources/learn-ml) main page for learning
 
-## Interesting demo projects
+## Interesting projects
+[TensorStore](https://ai.googleblog.com/2022/09/tensorstore-for-high-performance.html)
+
 [Imaginalry](https://github.com/brycedrennan/imaginAIry), easy installer for [Stable Diffusion](https://github.com/CompVis/stable-diffusion): amazing text to image model.
 
 [VToonify](https://github.com/williamyang1991/VToonify) a model to cartoonify images or videos.
