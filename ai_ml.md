@@ -10,6 +10,12 @@
 - Of course, [Tensorflow](https://www.tensorflow.org/resources/learn-ml) main page for learning
 
 ## Interesting demo projects
+[Imaginalry](https://github.com/brycedrennan/imaginAIry), easy installer for [Stable Diffusion](https://github.com/CompVis/stable-diffusion): amazing text to image model.
+
+[VToonify](https://github.com/williamyang1991/VToonify) a model to cartoonify images or videos.
+
+[Whisper](https://github.com/openai/whisper) a speech to text model supporting many languages.
+
 
 [Solving Rubik](https://pypi.org/project/kociemba/) cube using OpenCV
 
